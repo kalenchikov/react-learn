@@ -1,0 +1,14 @@
+{
+  "name": "react-learn",
+  "version": "1.0.0",
+  "description": "Very good technology",
+  "main": "index.html",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "author": "Konstantin Alenchikov",
+  "license": "MIT",
+  "devDependencies": {
+    "express": "^4.16.4"
+  }
+}
